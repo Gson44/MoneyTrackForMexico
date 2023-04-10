@@ -1,5 +1,7 @@
 var total = $("#totalValue")
+var message = "Seeing updates"
 
+console.log(message)
 $("#btn1").click(function(){
     var meal1 = $("#meal1")
     var val1 = $("#value1")
